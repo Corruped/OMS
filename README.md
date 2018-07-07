@@ -1,2 +1,3 @@
-# OMS { open modular synth }
+#{ Open Modular Synth }
 
+NOTHING .......................
