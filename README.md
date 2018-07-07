@@ -1,3 +1,3 @@
-#{ Open Modular Synth }
+# { Open Modular Synth }
 
 NOTHING .......................
