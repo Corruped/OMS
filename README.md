@@ -1,2 +1,2 @@
-# OMS open modular synth
+# OMS { open modular synth }
 
